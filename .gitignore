@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+*.db
+*.log
+/WebApp/bin/
+/WebApp/obj/
